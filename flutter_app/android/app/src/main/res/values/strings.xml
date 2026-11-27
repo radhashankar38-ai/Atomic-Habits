@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_name">Atomic Habits Rings</string>
+    <string name="widget_description">Large glowing activity rings for your active habits. Swipe or tap to flip between habit groups.</string>
+
+    <string name="widget_motivation_name">Daily Motivation</string>
+    <string name="widget_motivation_description">Daily motivational quote with one-tap refresh directly from your home screen.</string>
+
+    <string name="widget_todo_name">Atomic Habits To-Do</string>
+    <string name="widget_todo_description">Interactive daily checklist synced with Atomic Habits.</string>
+
+    <string name="widget_timing_name">Average Timing Chart</string>
+    <string name="widget_timing_description">Track weekly, monthly, and yearly completion timing bars on your home screen.</string>
+</resources>
