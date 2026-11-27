@@ -5,9 +5,17 @@ A dark frosted-glass habit tracker, daily checklist, analytics suite, customizab
 **Current Version:** `1.2.0` (`version: 1.2.0+2`)  
 **Developer:** `saisriram Sr`
 
-## Downloads (`v1.2.0`)
-- **Android Installer (APK):** [Atomic-Habits.apk](Atomic-Habits.apk)
-- **Source Archive (`.tar.gz`):** [Atomic-Habits-Source.tar.gz](Atomic-Habits-Source.tar.gz)
+## One-Click Download & Install (`v1.2.0`)
+
+[![Download Atomic-Habits APK](https://img.shields.io/badge/One--Click_Download-Atomic--Habits_v1.2.0_APK-0A84FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/radhashankar38-ai/Atomic-Habits/raw/main/Atomic-Habits.apk)
+[![Download Source Code](https://img.shields.io/badge/Download_Source-Archive_.tar.gz-34C759?style=for-the-badge&logo=github&logoColor=white)](https://github.com/radhashankar38-ai/Atomic-Habits/raw/main/Atomic-Habits-Source.tar.gz)
+
+| File | Size | Direct One-Click Download |
+| :--- | :--- | :--- |
+| **Android Installer (`.apk`)** | `51.8 MB` | [Download `Atomic-Habits.apk`](https://github.com/radhashankar38-ai/Atomic-Habits/raw/main/Atomic-Habits.apk) |
+| **Source Code Archive (`.tar.gz`)** | `308 KB` | [Download `Atomic-Habits-Source.tar.gz`](https://github.com/radhashankar38-ai/Atomic-Habits/raw/main/Atomic-Habits-Source.tar.gz) |
+
+> **Install on Android:** Tap **Download `Atomic-Habits.apk`** above (downloads directly—no file preview page), then open the downloaded APK and tap **Install**.
 
 ---
 
