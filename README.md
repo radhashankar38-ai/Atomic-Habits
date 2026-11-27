@@ -5,6 +5,10 @@ A dark frosted-glass habit tracker, daily checklist, analytics suite, customizab
 **Current Version:** `1.2.0` (`version: 1.2.0+2`)  
 **Developer:** `saisriram Sr`
 
+## Downloads (`v1.2.0`)
+- **Android Installer (APK):** [Atomic-Habits.apk](Atomic-Habits.apk)
+- **Source Archive (`.tar.gz`):** [Atomic-Habits-Source.tar.gz](Atomic-Habits-Source.tar.gz)
+
 ---
 
 ## Features
