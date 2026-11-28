@@ -3,7 +3,8 @@
 A dark frosted-glass habit tracker, daily checklist, analytics suite, customizable notification engine, and native Android home-screen widget companion built with **Flutter** and **Kotlin**.
 
 **Current Version:** `1.2.0` (`version: 1.2.0+2`)  
-**Developer:** `saisriram Sr`
+**Developer:** `saisriram Sr`  
+**Privacy Policy:** [PRIVACY_POLICY.md](https://github.com/radhashankar38-ai/Atomic-Habits/blob/main/PRIVACY_POLICY.md)
 
 ## One-Click Download & Install (`v1.2.0`)
 
