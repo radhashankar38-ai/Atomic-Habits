@@ -1,0 +1,6 @@
+v1.2.0
+- Added daily time reminders on To-Do tasks and long-press task editing
+- Added in-Settings customizable notification frequency (1x-4x/day) and custom timings
+- Added native Android AlarmManager + BootReceiver notifications for habits digests, task check-ins, and timed task alerts
+- Updated Android To-Do home widget with task reminder badges and direct edit button
+- Added MIT License and Fastlane metadata for F-Droid, IzzyOnDroid, and Obtainium

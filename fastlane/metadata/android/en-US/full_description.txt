@@ -1,0 +1,10 @@
+Atomic-Habits is a dark frosted-glass habit tracker, daily checklist, analytics suite, and Android home-screen widget companion built with Flutter and Kotlin.
+
+Key Features:
+- Concentric Activity Rings & Category Filters: Track daily habit completion across Health, Work, Learning, Productivity, Personal, Fitness, Finance, and Social.
+- Streak Momentum & Mastery Goals: Quadratic points scaling (ceil(n^2 / 2)), missed-day recovery locks, per-habit target goals, reflections, and shareable mastery certificates.
+- Daily To-Do Checklists & Time Reminders: Set optional daily reminder times per task using a frosted glass time picker, long-press any task to edit text or reminder times, and swipe to delete.
+- Customizable Daily Notifications (Settings > Notifications): Pick 1x to 4x alerts per day, customize each trigger time slot, toggle Habits and To-Do Tasks separately, test alerts immediately, and receive per-task timed notifications with a Mark Done action.
+- 4 Native Android Home Screen Widgets: Paged Habit Rings widget, Daily Motivation quote widget (public-domain classics), scrollable To-Do widget (with reminder badges and quick edit button), and Average Timing (Week/Month/Year) bar chart widget.
+- Progress Analytics & Badges: Hourly intensity heatmap, completion timing bar charts, interactive monthly calendar, ranks, and Bronze/Silver/Gold/Diamond badges.
+- Offline-First & Private: All data stays local on your device with JSON backup export and import inside Settings.

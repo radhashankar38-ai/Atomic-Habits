@@ -23,3 +23,10 @@ flutter_app/android/local.properties
 !/Atomic-Habits.apk
 *.aab
 *.iml
+key.properties
+**/key.properties
+*.jks
+*.keystore
+*.p12
+*.pk8
+*.pem
