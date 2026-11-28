@@ -8,6 +8,10 @@ import 'state/habit_store.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  // Disable runtime font fetching so the app works fully offline and passes
+  // F-Droid's NonFreeNet policy. Fonts are bundled via google_fonts 9.x asset
+  // loading from the package's own assets, which are included at build time.
+  GoogleFonts.config.allowRuntimeFetching = false;
   // Interpolate touch input samples to display VSync for 60/90/120Hz fluidity.
   GestureBinding.instance.resamplingEnabled = true;
   SystemChrome.setSystemUIOverlayStyle(
