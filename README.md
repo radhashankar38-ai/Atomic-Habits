@@ -8,13 +8,13 @@ A dark frosted-glass habit tracker, daily checklist, analytics suite, customizab
 
 ## One-Click Download & Install (`v1.2.0`)
 
-[![Download Atomic-Habits APK](https://img.shields.io/badge/One--Click_Download-Atomic--Habits_v1.2.0_APK-0A84FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/radhashankar38-ai/Atomic-Habits/raw/main/Atomic-Habits.apk)
-[![Download Source Code](https://img.shields.io/badge/Download_Source-Archive_.tar.gz-34C759?style=for-the-badge&logo=github&logoColor=white)](https://github.com/radhashankar38-ai/Atomic-Habits/raw/main/Atomic-Habits-Source.tar.gz)
+[![Download Atomic-Habits APK](https://img.shields.io/badge/One--Click_Download-Atomic--Habits_v1.2.0_APK-0A84FF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/radhashankar38-ai/Atomic-Habits/releases/latest/download/Atomic-Habits.apk)
+[![Download Source Code](https://img.shields.io/badge/Download_Source-Archive_.tar.gz-34C759?style=for-the-badge&logo=github&logoColor=white)](https://github.com/radhashankar38-ai/Atomic-Habits/releases/latest/download/Atomic-Habits-Source.tar.gz)
 
 | File | Size | Direct One-Click Download |
 | :--- | :--- | :--- |
-| **Android Installer (`.apk`)** | `51.8 MB` | [Download `Atomic-Habits.apk`](https://github.com/radhashankar38-ai/Atomic-Habits/raw/main/Atomic-Habits.apk) |
-| **Source Code Archive (`.tar.gz`)** | `308 KB` | [Download `Atomic-Habits-Source.tar.gz`](https://github.com/radhashankar38-ai/Atomic-Habits/raw/main/Atomic-Habits-Source.tar.gz) |
+| **Android Installer (`.apk`)** | `33.9 MB` | [Download `Atomic-Habits.apk`](https://github.com/radhashankar38-ai/Atomic-Habits/releases/latest/download/Atomic-Habits.apk) |
+| **Source Code Archive (`.tar.gz`)** | `308 KB` | [Download `Atomic-Habits-Source.tar.gz`](https://github.com/radhashankar38-ai/Atomic-Habits/releases/latest/download/Atomic-Habits-Source.tar.gz) |
 
 > **Install on Android:** Tap **Download `Atomic-Habits.apk`** above (downloads directly—no file preview page), then open the downloaded APK and tap **Install**.
 
